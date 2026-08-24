@@ -7,10 +7,10 @@ layout: default
 # Sristi Bafna
 
 <!-- This creates a download button for your CV/Resume -->
-[[CV File]](files/Sristi_Bafna_Resume.pdf)
+[[CV File]](files/SristiBafna_CV_v1.pdf)
 
 <!-- This inserts your profile picture -->
-![Photograph of Sristi Bafna](profile.jpg)
+![Photograph of Sristi Bafna](profile.jpeg)
 
 I am a **[Your Major/Profession]** at [Your University/Company] advised by [Advisor Name, if applicable]. Previously, I was a **[Previous Role]** at [Previous Company] and a **[Another Role]** at [Another Company].
 
